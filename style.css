@@ -1,0 +1,5 @@
+.done {
+	text-decoration: line-through;
+}
+body {
+	background: linear-gradient(to right, rgb(242, 243, 242), rgb(208, 189, 189));
