@@ -4,9 +4,14 @@
 body {
 	/*x-color: blue;*/
 	background: linear-gradient(to right, rgb(242, 243, 242), rgb(208, 189, 189));
-}
-
-.heading {
-	color: red;
 	text-align: center;
 }
+
+/*.heading {
+	color: red
+	text-align: center;
+}*/
+
+/*.shopping_list {
+	text-align: center;
+/
