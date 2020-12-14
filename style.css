@@ -7,6 +7,10 @@ body {
 	text-align: center;
 }
 
+.box {
+	background-color: grey;
+}
+
 /*.heading {
 	color: red
 	text-align: center;
